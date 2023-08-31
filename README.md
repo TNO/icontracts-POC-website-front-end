@@ -1,6 +1,13 @@
-# Hosting
 
-## Locally
+# Intelligent Contracts: proof-of-concept website that uses the Onassis ontology
+
+This repository details on work done on Intelligent Contracts in several TNO projects.
+
+It contains front-end code for a proof of concept website that demonstrate use the of ontology in repository https://github.com/TNO/icontracts-onassis-ontology.
+
+See repository https://github.com/TNO/icontracts-POC-website-back-end for the back-end part of this website. 
+
+# Installation/Hosting instructions
 
 ```Use node 16```
 
@@ -13,7 +20,7 @@ or
 
 ```Npm run build```
 
-## using Docker
+## Hosting using Docker
 
 Use 
 ```docker-compose up --build```
